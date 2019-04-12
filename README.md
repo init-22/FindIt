@@ -3,7 +3,7 @@ The Goal of this application is to enhance your travelling experience using late
 
 We've been working on it's prototype and Choose 'Death Valley' region for the starting point and we have got somewhat good accuracy 77%..ish ! but currently we are stuck with integrating the model into our app, we are working on that and will get back to you soon. 
 
-My goal is to launch this app for free for users in all regions, let me know if you can help me achieve this with the help of your time/skills/energy. 
+My goal is to launch this app for free for users in all regions, let me know if you can help me achieve this with the help of your time/skills/energy. Get in touch with me to access to the data for Collaboration.
 
 You can reach out to me: https://www.linkedin.com/in/isaac-patole223/
 
