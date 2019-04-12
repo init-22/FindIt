@@ -1,2 +1,19 @@
 # FindIt
-Mobile Application 
+The Goal of this application is to enhance your travelling experience using latest technological advancements like Deep Learning for object detection and classification. FindIt can help you detect animal, plants, insects in some of the tuff places like Amazon Jungle, Sahara, Death Vallley etc., it can give you general information about the object, it can also categorize harmful objects like Snake, Venomous insects, plants etc. It can also sugget you the best travelling region.
+
+We've been working on it's prototype and Choose 'Death Valley' region for the starting point and we have got somewhat good accuracy 77%..ish ! but currently we are stuck with integrating the model into our app, we are working on that and will get back to you soon. 
+
+My goal is to launch this app for free for users in all regions, let me know if you can help me achieve this with the help of your time/skills/energy. 
+
+You can reach out to me: https://www.linkedin.com/in/isaac-patole223/
+
+Contributors :
+
+Rahul Rao: 
+Kenny Xavier Monar Auguilar:
+Bhuwan Kandel:
+Simran Singh:
+Sukanya Mandal:
+Bhuwan Kandel: 
+
+
