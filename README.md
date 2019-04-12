@@ -8,8 +8,8 @@ My goal is to launch this app for free for users in all regions, let me know if 
 You can reach out to me: https://www.linkedin.com/in/isaac-patole223/
 
 Contributors :
-(Deep Learning) Rahul Rao, 
-Kenny Xavier Monar Auguilar.
+(Deep Learning) Rahul Rao: https://www.linkedin.com/in/rahul-me/ 
+Kenny Xavier Monar Auguilar: https://www.linkedin.com/in/kenny-monar-aguilar/
 (Mobile App Deevlopemet) Bhuwan Kandel:
 
 Special thanks to:
