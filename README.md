@@ -8,12 +8,13 @@ My goal is to launch this app for free for users in all regions, let me know if 
 You can reach out to me: https://www.linkedin.com/in/isaac-patole223/
 
 Contributors :
+(Deep Learning) Rahul Rao, 
+Kenny Xavier Monar Auguilar.
+(Mobile App Deevlopemet) Bhuwan Kandel:
 
-Rahul Rao: 
-Kenny Xavier Monar Auguilar:
-Bhuwan Kandel:
-Simran Singh:
-Sukanya Mandal:
-Bhuwan Kandel: 
+Special thanks to:
+Simran Singh : https://www.linkedin.com/in/simransingh9503
+Sukanya Mandal : https://www.linkedin.com/in/sukanyamandal/
+
 
 
