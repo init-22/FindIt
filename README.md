@@ -1,5 +1,5 @@
 # FindIt
-The Goal of this application is to enhance your travelling experience using latest technological advancements like Deep Learning for object detection and classification. FindIt can help you detect animal, plants, insects in some of the tuff places like Amazon Jungle, Sahara, Death Vallley etc. where it is so much difficult to survive with experts guidance, it can give you general information about the object, it can also categorize harmful objects like Snake, Venomous insects, plants etc. It can also sugget you the best travelling region.
+The Goal of this application is to enhance your travelling experience using latest technological advancements like Deep Learning for object detection and classification. FindIt can help you detect animal, plants, insects in some of the tuff places like Amazon Jungle, Sahara, Death Vallley etc. where it is so much difficult to survive without experts guidance, it can give you general information about the object, it can also categorize harmful objects like Snake, Venomous insects, plants etc. It can also sugget you the best travelling region.
 
 We've been working on it's prototype and Choose 'Death Valley' region for the starting point and we have got somewhat good accuracy 77%..ish ! but currently we are stuck with integrating the model into our app, we are working on that and will get back to you soon. 
 
