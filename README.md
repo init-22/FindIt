@@ -9,7 +9,7 @@ You can reach out to me: https://www.linkedin.com/in/isaac-patole223/
 
 Contributors to the code:
 Rahul Rao: https://www.linkedin.com/in/rahul-me/ 
-Kenny Xavier Monar Auguilar: https://www.linkedin.com/in/kenny-monar-aguilar/
+Kenny Xavier Monar Aguilar: https://www.linkedin.com/in/kenny-monar-aguilar/
 
 
 Special thanks to:
