@@ -5,7 +5,7 @@ We've been working on it's prototype and Choose 'Death Valley' region for the st
 
 My goal is to launch this app for free for users in all regions, let me know if you can help me achieve this with the help of your time/skills/energy. Get in touch with me to access to the data for Collaboration.
 
-You can reach out to me on LinkdIn : https://www.linkedin.com/in/isaac-patole223/ 
+You can reach out to me on LinkdIn : https://www.linkedin.com/in/isaac-patole/ 
 Gmail: isaacpatole4u@gmail.com
 
 Contributors to the code:
